@@ -10,3 +10,5 @@ touch src/index.html
 add .
 commit -m "First commit"
 add code to index.html
+add .
+commit -m "add content to index page"

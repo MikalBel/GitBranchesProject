@@ -1,0 +1,12 @@
+mkdir Branches -p GitbranchesProject
+git init
+open folder
+mkdir config src 
+touch config/app.config
+touch settings.json 
+touch .gitignore 
+Ignore all content under config, ignore settings.json file, ignore files with .log extension
+touch src/index.html
+add .
+commit -m "add index.html page"
+add code to index.html

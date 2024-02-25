@@ -1,0 +1,8 @@
+#Ignore all content config 
+config
+
+#Ignore settings.json files 
+settings.json 
+
+#Ignore all files with .log extension
+*.log 

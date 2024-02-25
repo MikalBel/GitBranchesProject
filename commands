@@ -19,4 +19,23 @@ commit -m "add login page"
 add code to login 
 git add .
 commit -m "add contetnt to login"
+git checkout master 
+git branch -b feature/signup
+touch src/signup.html
+add .
+commit -m "add signup page" 
+uppdate signup.html
+add .
+commit -m "add content signup page"
+git merge feature/login
+git checkout feature/signup
+git rebase master
+git checkout master
+git merge feature/signup
+creat new GitBranchesProject repo
+copy GitBranchesProject repo from remote to local repo
+git rename branch -M main
+git push origin -u main
+add readme text and commit in GitHub
+git pull
 

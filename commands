@@ -15,3 +15,8 @@ commit -m "add content to index page"
 git branch feature/login
 touch src/login.html
 add src/login.html
+commit -m "add login page"
+add code to login 
+git add .
+commit -m "add contetnt to login"
+

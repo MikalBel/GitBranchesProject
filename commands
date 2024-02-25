@@ -8,5 +8,5 @@ touch .gitignore
 Ignore all content under config, ignore settings.json file, ignore files with .log extension
 touch src/index.html
 add .
-commit -m "add index.html page"
+commit -m "First commit"
 add code to index.html
